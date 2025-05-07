@@ -6,21 +6,21 @@ My name is Erick Nunes, I currently reside in Brazil. I work as a Full-Stack dev
 
 ### 🚀 Languages and Tools:
 
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="23px" alt="PHP"/>][php]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="23px" alt="JavaScript"/>][javascript]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20px" alt="TypeScript" />][typescript]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="23px" alt="React JS"/>][react]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="23px" alt="Next JS"/>][nextjs]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="23px" alt="Vue JS"/>][vuejs]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="23px" alt="Nuxt JS"/>][nuxtjs]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="23px" alt="Node JS"/>][nodejs]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="23px" alt="React"/>][react]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="23px" alt="NextJs"/>][nextjs]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="23px" alt="Vue"/>][vuejs]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="23px" alt="Nuxt"/>][nuxtjs]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="23px" alt="Node"/>][nodejs]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" width="23px" alt="Bun"/>][bun]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="23px" alt="PHP"/>][php]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="23px" alt="Laravel"/>][laravel]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="23px" alt="Flutter"/>][flutter]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="23px" alt="Dart"/>][dart]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="23px" alt="TailWindCss"/>][tailwindcss]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="23px" alt="Figma"/>][figma]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" width="23px" alt="Insomnia"/>][insomnia]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="23px" alt="Postman"/>][postman]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="23px" alt="git"/>][git]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="23px" alt="Supabase"/>][supabase]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="23px" alt="PostGreSql"/>][postgresql]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="23px" alt="Docker"/>][docker]
 
@@ -51,21 +51,21 @@ My name is Erick Nunes, I currently reside in Brazil. I work as a Full-Stack dev
       
 </details>
 
-[php]: https://www.php.net/
 [javascript]: https://pt.wikipedia.org/wiki/JavaScript
+[typescript]: https://www.typescriptlang.org/
 [react]: https://pt-br.reactjs.org/
 [nextjs]: https://nextjs.org/
 [vuejs]: https://vuejs.org/
 [nuxtjs]: https://v2.nuxt.com/pt/
-[flutter]: https://flutter.dev/
-[dart]: https://dart.dev/
-[typescript]: https://www.typescriptlang.org/
 [nodejs]: https://nodejs.org/en/
+[bun]: https://bun.sh/
+[php]: https://www.php.net/
+[laravel]: https://laravel.com/
 [tailwindcss]: https://tailwindcss.com/
+[flutter]: https://flutter.dev/
 [figma]: https://www.figma.com/
-[insomnia]: https://insomnia.rest/
-[postman]: https://www.postman.com/
 [git]: https://git-scm.com/
+[supabase]: https://supabase.com/
 [postgresql]: https://www.postgresql.org/
 [docker]: https://www.docker.com/
 
