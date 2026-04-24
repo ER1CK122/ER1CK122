@@ -1,6 +1,10 @@
 ## Hello! Welcome to my profile. 👋
 
-My name is Erick Nunes, I currently reside in Brazil. I work as a Full-Stack developer, I started my academic career in 2024 on the Software Engineering course at UDESC/SC. My primary technologies include PHP, JavaScript and Html/Css.
+Software Developer with approximately 4 years of experience in web development, working on full-stack projects with a focus on PHP, JavaScript, and building modern interfaces.
+
+Hands-on experience in the development and maintenance of production systems, as well as working with technologies such as React, Next.js, and TypeScript on internal projects.
+
+I am seeking opportunities to take on more complex challenges, continue growing technically, and actively contribute to the development of efficient and scalable solutions.
 
 "It's not the destination that matters, it's the journey" 💭
 
